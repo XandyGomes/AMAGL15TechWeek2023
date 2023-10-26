@@ -1,2 +1,0 @@
-Maps SDK for Android KEY = "AIzaSyCxTSg2fBq7-shHa7IbMfjKNQn6UxkIoAc"
-Places API KEY = "AIzaSyDIBqew_lVrbEyCKcFDzoeNP1axNroDZcc"
